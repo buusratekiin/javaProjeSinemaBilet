@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SinemaOtomasyonu">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SinemaOtomasyonu/dist/SinemaOtomasyonu.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
